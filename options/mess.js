@@ -35,7 +35,7 @@ const fs = require('fs')
 
 global.mess = {
 wait: 'Mohon Tunggu Sebentar !',
-succes: 'Done... Please A Subscribe My Youtube Zero YT7',
+succes: 'Done... Please A Subscribe My Youtube ZURR EDITZ',
 admin: 'Fitur Ini Hanya Bisa Di Gunakan Oleh Admin Group !',
 botAdmin: 'Jadikan Bot Admin Terlebih Dahulu !',
 owner: 'fitur Hanya Bisa Di Gunakan Oleh Owner Bot !',
